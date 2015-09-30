@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易象義
-#+DATE: 2015-09-23 09:34:48
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 21:56:12.765594
+#+PROPERTY: ID KR1a0066
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1a0066_WYG_009-1a>¶
 欽定四庫全書¶
 　易象義卷九　　　　　　宋　丁易東　撰¶
@@ -452,4 +454,3 @@
 　¶
 　¶
 　易象義卷九¶
-

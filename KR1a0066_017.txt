@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易象義
-#+DATE: 2015-09-23 09:34:48
-#+PROPERTY: JUAN 17
+#+DATE: 2015-08-24 21:56:12.939369
+#+PROPERTY: ID KR1a0066
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 後序
 <pb:KR1a0066_WYG_017-1a>¶
 後序¶
 易變易也六十四卦一乾之變也三百八十四爻一初¶
@@ -44,4 +46,3 @@
 之有以開其心者而猶懼夫失之易也是其是非其非¶
 蓋將有待于萬世之公論焉儻无忝于鼻祖將軍之家¶
 學云昭陽協洽候豫卦武林丁易東後序¶
-
